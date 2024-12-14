@@ -3,5 +3,5 @@
 কোন Framwork ব্যাবহার করা হই নি। আমি চেষ্টা করেছি Pure HTML,CSS এবং 
 
 Javascript ব্যাবহার করার ।  
-
-
+**This is a red text**.
+~~This is a green text~~.
