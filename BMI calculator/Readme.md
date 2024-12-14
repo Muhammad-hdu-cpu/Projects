@@ -4,3 +4,5 @@
 
 Javascript ব্যাবহার করার ।  
 
+>[!Note]
+>আমি  Layout responsive বানাতে তেমন কাজ করিনি তাই এই  Application responsive হবে না ।
