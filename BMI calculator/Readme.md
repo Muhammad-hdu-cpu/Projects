@@ -6,7 +6,10 @@ Javascript ব্যাবহার করার ।
 
 >[!Note]
 >আমি  Layout responsive বানাতে তেমন কাজ করিনি তাই এই  Application responsive হবে না ।
+<<<<<<< HEAD
 >[!Note]
 >আমি  Layout responsive বানাতে তেমন কাজ করিনি তাই এই  Application responsive হবে না ।
 
 
+=======
+>>>>>>> 681213f47c05f5ea70782d97f82d4f120692b835
