@@ -2,6 +2,6 @@
 
 কোন Framwork ব্যাবহার করা হই নি। আমি চেষ্টা করেছি Pure HTML,CSS এবং 
 
-Javascript ব্যাবহার করেছি । 
+Javascript ব্যাবহার করার ।  
 
 
