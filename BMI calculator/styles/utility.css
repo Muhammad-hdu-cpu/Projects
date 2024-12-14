@@ -1,0 +1,3 @@
+.top-rounded {
+    border-radius: 16px 16px 0 0; /* Top-left, top-right, bottom-right, bottom-left */
+}
