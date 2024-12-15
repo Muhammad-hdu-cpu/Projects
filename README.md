@@ -16,7 +16,10 @@ medium level এর কিছু Projects
 
 Projects গুলোর লিংক নিচে দেওয়া 
 
-হল।
+হল। Code গুলো  review করবেন এবং 
+
+আমাকে জানাবেন ।
 
  1. [BMI Calculator](https://github.com/Muhammad-hdu-cpu/Projects/tree/main/BMI%20calculator)
+
 
