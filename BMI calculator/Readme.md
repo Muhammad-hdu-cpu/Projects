@@ -4,5 +4,7 @@
 
 Javascript ব্যাবহার করার ।  
 
+                       Hope You will Enjoy it !
+
 >[!Note]
 >আমি  Layout responsive বানাতে তেমন কাজ করিনি তাই এই  Application responsive হবে না ।
